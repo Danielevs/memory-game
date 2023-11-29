@@ -1,7 +1,7 @@
 ## Awesome JSGame Jogo da Memória
 
 <p align="center">
-  <img src="./src/images/jogo.png" alt="Jogo da memória com emojis">
+  <img src="./src/jogo.png" alt="Jogo da memória com emojis">
 </p>
 
 
